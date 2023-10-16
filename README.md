@@ -13,3 +13,10 @@ GitHub Desktop, VS Code, CodeSpaces, and Copilot.
 
 **Part 4: Beyond the Basics**  
 Building things with GitHub.
+
+## Important links
+- [git command cheat sheet](https://github.com/mor10/github-for-the-rest-of-us/blob/main/reference/git_cheatsheet.pdf)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [GitHub Certification (upcoming)](https://resources.github.com/learn/certifications/)
+- [Career Essentials in GitHub (Professional Certificate) from LinkedIn Learning](https://www.linkedin.com/learning/paths/career-essentials-in-github-professional-certificate)
