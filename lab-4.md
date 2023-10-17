@@ -73,7 +73,7 @@ jobs:
 
       - name: Deploy
         # https://github.com/JamesIves/github-pages-deploy-action
-        uses: JamesIves/github-pages-deploy-action@4.4.3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: out
@@ -82,3 +82,5 @@ jobs:
 11. Checkout the `main` branch.
 12. Stage and commit the new files to the `main` branch.
 13. Sync the new changes to the repo.
+14. Go to the repo and click on the `Actions` tab. You should now see the action kick in.
+15. Go back to Codespaces and create a new file in the `pages` folder titled `about.js`
