@@ -31,6 +31,7 @@ if (isGithubActions) {
 }
 
 module.exports = {
+  output: 'export',
   assetPrefix: assetPrefix,
   basePath: basePath,
 }
@@ -42,6 +43,9 @@ module.exports = {
 
 ```yml
 name: Node.js CI
+
+permissions:
+  contents: write
 
 on:
   push:
@@ -68,7 +72,6 @@ jobs:
         run: |
           npm ci
           npm run build
-          npm run export
           touch out/.nojekyll
 
       - name: Deploy
