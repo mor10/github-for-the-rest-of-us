@@ -86,4 +86,8 @@ jobs:
 12. Stage and commit the new files to the `main` branch.
 13. Sync the new changes to the repo.
 14. Go to the repo and click on the `Actions` tab. You should now see the action kick in.
-15. Go back to Codespaces and create a new file in the `pages` folder titled `about.js`
+15. Go back to Codespaces and create a new file in the `pages` folder titled `about.js`.
+16. Use Copilot to help you build a basic page with some general content (or take things a step further and build a more advanced page).
+17. Stage, Commit, and Sync the new page.
+18. Watch the Action kick in to generate the new page.
+19. Visit the URI to your GitHub Pages page and test your new page!
