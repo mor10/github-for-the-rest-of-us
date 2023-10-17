@@ -19,7 +19,7 @@ Community and the power of GitHub.
 GitHub Desktop, VS Code, CodeSpaces, and Copilot.
 
 **Part 4: Beyond the Basics**  
-Building things with GitHub.
+Next.js + Codespaces + GitHub Pages
 
 ## Important links
 - [git command cheat sheet](https://github.com/mor10/github-for-the-rest-of-us/blob/main/reference/git_cheatsheet.pdf)
