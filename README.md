@@ -2,8 +2,15 @@
 A workshop by [Morten Rand-Hendriksen](https://www.linkedin.com/in/mortenrandhendriksen/) at [Y Oslo 2023](https://www.y-oslo.com/workshop/github-for-the-rest-of-us).
 
 ## Schedule
+
+**Part 0: Setup and Install All The Tings**
+- Set up your GitHub account
+- Install [Visual Studio Code](https://code.visualstudio.com/)
+- Install [GitHub Desktop](https://desktop.github.com/)
+
 **Part 1: Version control**  
-Making sense of git with science fiction terms
+Making sense of git with science fiction terms.
+Project repo: [A New Castle for the King](https://github.com/mor10/a-new-castle)
 
 **Part 2: Collaboration**  
 Community and the power of GitHub.
