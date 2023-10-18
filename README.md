@@ -7,6 +7,7 @@ A workshop by [Morten Rand-Hendriksen](https://www.linkedin.com/in/mortenrandhen
 - Set up your GitHub account
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install [GitHub Desktop](https://desktop.github.com/)
+- Activate [GitHub Copilot](https://github.com/features/copilot) (recommended, but optional)
 
 **Part 1: Version control**  
 Making sense of git with science fiction terms.
