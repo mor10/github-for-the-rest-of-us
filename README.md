@@ -17,6 +17,7 @@ Community and the power of GitHub.
 
 **Part 3: Tools**  
 GitHub Desktop, VS Code, CodeSpaces, and Copilot.
+Useful link for reference: [Morten's Codespaces Baseline](https://github.com/mor10/baseline)
 
 **Part 4: Beyond the Basics**  
 [Next.js + Codespaces + GitHub Actions + GitHub Pages](/lab-4.md)
